@@ -4,6 +4,8 @@
 
 I work across applied AI and software engineering, from agent-tool integrations and speech evaluation to evolutionary robotics. My projects combine implementation work, research prototypes and collaborative coursework.
 
+[Portfolio website](https://clearlynotmich.github.io/)
+
 ## Selected projects
 
 ### [UvA–HvA Agentic Tools](https://github.com/ClearlyNotMich/uva-hva-agentic-tools)
