@@ -46,4 +46,4 @@ Controller scaffolding, asynchronous logging and a standalone LiDAR mapping demo
 
 ## Engineering approach
 
-Tbh all I want is to explore, learn, have fun and leave tomorrow slightly better than it is today.
+All I want is to explore, learn, have fun and leave tomorrow slightly better than it is today.
