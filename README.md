@@ -46,4 +46,4 @@ Controller scaffolding, asynchronous logging and a standalone LiDAR mapping demo
 
 ## Engineering approach
 
-I value clear interfaces, reproducible evaluation and tests that make software easier to inspect and extend. Project READMEs and provenance notes distinguish individual contributions, team work and upstream dependencies, and describe what can be run and evaluated from each repository.
+Tbh all I want is to explore, learn, have fun and leave tomorrow slightly better than it is today.
